@@ -6,8 +6,6 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 
 ### 🚀 Sobre mim
 - 🎓 Estudante do 3º ano no SENAI (Desenvolvimento de Sistemas / Tecnologia da Informação).
-- 🏆 Vencedor do "Desafio de Ideias SENAI", desenvolvendo soluções de otimização industrial e rastreabilidade.
-- 📚 Atualmente me preparando para ingressar na FATEC.
 - 💡 Busco sempre explorar novas tecnologias, desde aplicações web corporativas até integrações com Inteligência Artificial.
 
 ---
