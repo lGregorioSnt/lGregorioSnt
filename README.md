@@ -22,7 +22,6 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 **Infraestrutura & Outros:**  
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,6 +33,14 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 *   **CALLM - Plataforma de Gestão de T.I:** Sistema corporativo Full-Stack (Next.js e Node.js) para rastreabilidade de ativos via QR Code, gestão de chamados técnicos e painel analítico avançado. Vencedor de desafio de inovação.
 *   **Sistema de Gestão Farmacêutica:** Aplicação desenvolvida para controle de estoque, gestão de receitas e aplicação de regras de inventário (FEFO), utilizando Next.js e MongoDB.
 *   **Assistente Virtual Integrado (IA):** Projeto em Python com reconhecimento de voz e síntese neural, integrado à API do Gemini para atuar como assistente pessoal customizado.
+
+---
+
+### 👾 Modo Gamer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/42D305zX73vY1qI9nO/giphy.gif" alt="Pac-Man chasing ghosts" width="400">
+</p>
 
 ---
 
