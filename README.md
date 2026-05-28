@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas 👋
 
-**Desenvolvedor Full-Stack **
+**Desenvolvedor Full-Stack**
 
 Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem problemas reais. Tenho experiência na construção de aplicações completas (de ponta a ponta) focadas em escalabilidade, usabilidade e integração de sistemas. Atualmente, estou focado em me aprofundar no ecossistema JavaScript/TypeScript e desenvolver projetos de alto impacto.
 
