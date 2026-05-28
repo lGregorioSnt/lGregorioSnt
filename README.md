@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 **Back-end & Banco de Dados:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 **Infraestrutura & Outros:**  
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -42,8 +42,8 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lGregorioSnt&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGregorioSnt&layout=compact&theme=radium"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=lGregorioSnt&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGregorioSnt&layout=compact&theme=radium"/>
 </div>
 
 ---
