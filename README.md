@@ -42,8 +42,8 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radium"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lGregorioSnt&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGregorioSnt&layout=compact&theme=radium"/>
 </div>
 
 ---
