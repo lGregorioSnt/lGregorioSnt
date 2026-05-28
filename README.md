@@ -36,12 +36,11 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 
 ---
 
-### 🏙️ Minhas Contribuições em 3D
+### 🏙️ Minhas Contribuições (Night City)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D das Contribuições" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico da Cidade à Noite com Neon" />
 </p>
-
 ---
 
 ### 📫 Como me encontrar
