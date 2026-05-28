@@ -36,10 +36,10 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 
 ---
 
-### 👾 Modo Gamer
+### 🏙️ Minhas Contribuições em 3D
 
 <p align="center">
-  <img src="https://media.giphy.com/media/42D305zX73vY1qI9nO/giphy.gif" alt="Pac-Man chasing ghosts" width="400">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D das Contribuições" />
 </p>
 
 ---
