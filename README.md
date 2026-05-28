@@ -39,14 +39,6 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas que resolvem 
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lGregorioSnt&show_icons=true&theme=radium&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGregorioSnt&layout=compact&theme=radium" />
-</p>
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasgregoriosn)
